@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ma02_20200981</string>
+    <string name="api_url">http://api.data.go.kr/openapi/tn_pubr_public_museum_artgr_info_api?serviceKey=F%2BZ4FSzI2tja79UgKo%2ByPTp35zMwsEvO7q%2BpTLnjVep6E1SNL%2FL%2BI8lutRaFfc8%2BOQU5Pt8BjoX7qjAD8ekl9w%3D%3D&amp;pageNo=0&amp;numOfRows=100&amp;type=xml&amp;fcltyNm=</string>
+    <string name="api_key">AIzaSyB_DOAebHbAvs_A3vcY7j5-emd-dqYGRu4</string>
+    <string name="init_lat">37.604094</string>
+    <string name="init_lng">127.042463</string>
+</resources>
